@@ -1,0 +1,44 @@
+{
+  "views": [
+    {
+      "id": 1,
+      "logo": "",
+      "name": "INVasset AAID Trendsetters",
+      "discription": "Quant based investment model to identify Leaders of Current Bull Run and Generate Alpha",
+      "returns": "52%",
+      "volitility": "low/medium/high/severe"
+    },
+    {
+      "id": 2,
+      "logo": "",
+      "name": "NSEDG Quad Summit",
+      "discription": "Quad summit aims to fullfill details of international affairs",
+      "returns": "2%",
+      "volitility": "low/medium/high/severe"
+    },
+    {
+      "id": 3,
+      "logo": "",
+      "name": "Telecomm Intel Comm",
+      "discription": "Intel Comm to fullfill details of Domestic internal affairs",
+      "returns": "25%",
+      "volitility": "low/medium/high/severe"
+    },
+    {
+      "id": 4,
+      "logo": "",
+      "name": "Machinery Discomfort",
+      "discription": "Functional knowledge of acquired details",
+      "returns": "65%",
+      "volitility": "low/medium/high/severe"
+    },
+    {
+      "id": 5,
+      "logo": "",
+      "name": "Databases of Internal Inquries",
+      "discription": "Due to intellegence inputs",
+      "returns": "5%",
+      "volitility": "low/medium/high/severe"
+    }
+  ]
+}
