@@ -1,0 +1,41 @@
+.container {
+    padding: 20px;
+    text-align: justify;
+}
+.row {
+    margin: 10px;
+    font-size: small;
+    text-decoration:whitesmoke;
+    /* border-top: 1px solid #DDD;
+    border-bottom: 1px solid #DDD; */
+    width: 1100px;
+}
+
+.row:hover {
+    background-color: antiquewhite;
+}
+
+.cell {
+    margin: 3px;
+}
+
+.row-label {
+    color: brown;
+}
+
+.image-style {
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+    padding-bottom: 10px;
+}
+
+.action-buttons {
+    display: inline-block;
+    /* border: 1px solid #DDD; */
+    cursor: pointer;
+}
+
+.action-button-element {
+    padding-left: 10px;
+}
